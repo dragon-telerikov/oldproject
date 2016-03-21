@@ -1,0 +1,45 @@
+{
+  "ProjectName": "AppBuilderSoapUIMonMar21105752UTC2016",
+  "ProjectGuid": "309f3415-2fff-445d-90a4-daf4a65fa1c7",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.AppBuilderSoapUIMonMar21105752UTC2016",
+  "DisplayName": "AppBuilderSoapUIMonMar21105752UTC2016",
+  "Author": "",
+  "Description": "AppBuilderSoapUIMonMar21105752UTC2016",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{30169423-824e-42fb-ac5e-73807f46a30d}",
+  "WP8ProductID": "{cd15c971-02d0-45d9-821c-eeb7dff1548f}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.AppBuilderSoapUIMonMar21105752UTC2016",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
